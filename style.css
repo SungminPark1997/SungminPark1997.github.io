@@ -1,0 +1,15 @@
+.white {
+  color: white;
+}
+.hidden {
+  display: none;
+}
+.body {
+  display: flex;
+  justify-content: center;
+}
+
+.todo {
+  width: 500px;
+  height: 500px;
+}
